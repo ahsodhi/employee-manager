@@ -1,6 +1,6 @@
 # Employee-Manager
 
-![Screenshot](/Source Code/screenshots/Capture.png)
+![Screenshot](/Source Code/screenshots/Capture.PNG)
 
 Mobile App for Android and iOS<br/>
 Made with React Native and Firebase API<br/>
