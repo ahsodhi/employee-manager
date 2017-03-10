@@ -1,5 +1,7 @@
 # Employee-Manager
 
+![Screenshot](/Source Code/screenshots/Capture.png)
+
 Mobile App for Android and iOS<br/>
 Made with React Native and Firebase API<br/>
 Login with email/password to manage employee records stored on backend database<br/>
