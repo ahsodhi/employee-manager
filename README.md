@@ -1,6 +1,6 @@
 # Employee-Manager
 
-![Screenshot](/Source Code/screenshots/Capture.PNG)
+<img src="/Source Code/screenshots/Capture.PNG?raw=true" />
 
 Mobile App for Android and iOS<br/>
 Made with React Native and Firebase API<br/>
