@@ -1,4 +1,4 @@
-# Employee-Manager
+# Employee Manager
 
 <img src="/Source Code/screenshots/Capture.PNG?raw=true" />
 
