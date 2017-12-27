@@ -18,4 +18,4 @@ https://facebook.github.io/react-native/docs/getting-started.html
 1. Clone this repo
 2. Inside the "Source Code" directory, run `npm install`
 3. Open up your android or ios phone emulator
-4. Run `react-native run-android` or `react-native run-ios`
+4. Run `react-native run-android` or `react-native run-ios` from the "Source Code" directory
